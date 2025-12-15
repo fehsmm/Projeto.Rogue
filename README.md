@@ -1,0 +1,2 @@
+Projeto académico em Java. Inclui carregamento de salas via .txt, renderização em grelha, sistema de portas/chaves, inventário (3 slots), HUD de status e mecânica de movimento. O foco foi aplicar POO, composição e gestão de estado do jogo.
+Estado atual: features principais funcionais, mas com limitações/borrões conhecidos (ex.: persistência de salas e balanceamento de inimigos) por ser entrega académica com prazo.
